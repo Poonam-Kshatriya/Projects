@@ -1,0 +1,62 @@
+.body{
+    background: rgb(0,255,244);
+    background: linear-gradient(153deg, rgba(0,255,244,1) 3%, rgba(248,0,255,1) 94%); 
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+
+}
+
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-family: 'OCR A', sans-serif;
+}
+
+
+
+.card{
+    box-shadow: 10px 10px 5px rgb(205, 218, 207);
+    border-radius: 10px;
+    border: 1px solid rgb(0, 255, 34);
+    border-top: gainsboro !important;
+    border-bottom: gainsboro !important;
+    padding-top: 30px;
+    margin-top: 50px;
+    padding-bottom: 35px;
+    margin-bottom: 90px;
+    background: rgb(0,255,244);
+    background: linear-gradient(153deg, rgba(0,255,244,1) 3%, rgba(248,0,255,1) 94%); 
+}
+
+
+
+
+
+#title{
+    color: aliceblue; /* Fallback for browsers that don't support background text */
+    background: rgb(63,251,123);
+    background: radial-gradient(circle, rgba(63,251,123,1) 30%, rgba(251,183,63,1) 55%, rgba(252,247,70,1) 100%);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+}
+
+
+
+
+label { color: aliceblue; /* Fallback for browsers that don't support background text */
+    background: rgb(0,255,89);
+    background: linear-gradient(153deg, rgba(0,255,89,1) 33%, rgb(166, 255, 0) 34%);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+}
+
+button{
+    background: linear-gradient(153deg, rgba(0,255,89,1) 33%, rgba(255,244,0,1) 34%);
+    color: black;
+}
+
+
+
